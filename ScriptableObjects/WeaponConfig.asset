@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 298c3194e9facf34eb0c4156ac2b86d1, type: 3}
+  m_Name: WeaponConfig
+  m_EditorClassIdentifier: 
+  _name: Crowbar
+  _description: 
+  _xTileCount: 5
+  _yTileCount: 2
+  _inventorySprite: {fileID: 21300000, guid: 5cf8da2d9e36afe4ca09f847597b388d, type: 3}
+  _weight: 1
+  _damage: 50
+  _speed: 1
+  _staminaCost: 50
+  _weapon: {fileID: 5853960633851171761, guid: 43a3f5fbe82d5ac4d92c945d4572a92f, type: 3}
